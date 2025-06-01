@@ -2,7 +2,7 @@ group 'com.whelksoft.flutter_native_timezone'
 version '1.0-SNAPSHOT'
 
 buildscript {
-    ext.kotlin_version = '1.8.22' // ✅ Use a modern Kotlin version
+    ext.kotlin_version = '1.5.30' // ✅ Use a modern Kotlin version
     repositories {
         google()
         mavenCentral()
