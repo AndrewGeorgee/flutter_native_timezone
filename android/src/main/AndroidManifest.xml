@@ -1,1 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- You can add any permissions here if needed -->
+    <!-- Example (not required unless the plugin uses it): -->
+    <!-- <uses-permission android:name="android.permission.READ_PHONE_STATE" /> -->
+
+</manifest>
